@@ -1,0 +1,24 @@
+﻿  AES.cpp
+G:\C++Pro\授权文件生成\PythonDll\AES.cpp(1058,51): warning C4018: “<”: 有符号/无符号不匹配
+G:\C++Pro\授权文件生成\PythonDll\AES.cpp(1069,51): warning C4018: “<”: 有符号/无符号不匹配
+G:\C++Pro\授权文件生成\PythonDll\AES.cpp(1080,51): warning C4018: “<”: 有符号/无符号不匹配
+G:\C++Pro\授权文件生成\PythonDll\AES.cpp(1101,51): warning C4018: “<”: 有符号/无符号不匹配
+G:\C++Pro\授权文件生成\PythonDll\AES.cpp(1112,51): warning C4018: “<”: 有符号/无符号不匹配
+G:\C++Pro\授权文件生成\PythonDll\AES.cpp(1124,51): warning C4018: “<”: 有符号/无符号不匹配
+  Base64.cpp
+G:\C++Pro\授权文件生成\PythonDll\Base64.cpp(69,57): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+G:\C++Pro\授权文件生成\PythonDll\Base64.cpp(86,56): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+  md5.cpp
+G:\C++Pro\授权文件生成\PythonDll\md5.cpp(138,19): warning C4244: “参数”: 从“std::streamsize”转换到“size_t”，可能丢失数据
+  PythonDll.cpp
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(100,11): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(103,30): warning C4018: “>=”: 有符号/无符号不匹配
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(221,22): warning C4018: “<”: 有符号/无符号不匹配
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(242,20): warning C4018: “<”: 有符号/无符号不匹配
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(251,20): warning C4018: “<”: 有符号/无符号不匹配
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(261,20): warning C4018: “<”: 有符号/无符号不匹配
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(328,17): warning C4018: “<”: 有符号/无符号不匹配
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(296,17): warning C4101: “k”: 未引用的局部变量
+    正在创建库 G:\C++Pro\授权文件生成\PythonDll\Release\PythonDll.lib 和对象 G:\C++Pro\授权文件生成\PythonDll\Release\PythonDll.exp
+MSVCRT.lib(exe_main.obj) : error LNK2001: 无法解析的外部符号 _main
+G:\C++Pro\授权文件生成\PythonDll\Release\PythonDll.exe : fatal error LNK1120: 1 个无法解析的外部命令

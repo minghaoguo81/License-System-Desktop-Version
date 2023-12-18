@@ -1,0 +1,21 @@
+﻿  AES.cpp
+  Base64.cpp
+G:\C++Pro\授权文件生成\PythonDll\Base64.cpp(58,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\C++Pro\授权文件生成\PythonDll\Base64.cpp(69,57): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+G:\C++Pro\授权文件生成\PythonDll\Base64.cpp(86,56): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+  md5.cpp
+  PythonDll.cpp
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(53,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(61,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(100,11): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(103,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(221,22): warning C4018: “<”: 有符号/无符号不匹配
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(248,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(296,17): warning C4101: “k”: 未引用的局部变量
+    正在创建库 G:\C++Pro\授权文件生成\PythonDll\x64\Release\PythonDll.lib 和对象 G:\C++Pro\授权文件生成\PythonDll\x64\Release\PythonDll.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+G:\C++Pro\授权文件生成\PythonDll\PythonDll.cpp(376): warning C4172: 返回局部变量或临时变量的地址: licInfYN
+  All 263 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  PythonDll.vcxproj -> G:\C++Pro\授权文件生成\PythonDll\x64\Release\PythonDll.dll
